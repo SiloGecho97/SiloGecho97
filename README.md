@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Silas
 🔭 I’m currently working on Nodejs and ReactJs. 
 <!--
 **SiloGecho97/SiloGecho97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
