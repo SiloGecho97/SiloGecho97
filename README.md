@@ -3,8 +3,9 @@
 
 💬 Ask me about Node
 
-
+Git Stats
 ![Silas's GitHub stats](https://github-readme-stats.vercel.app/api?username=silogecho97&show_icons=true&theme=radical)
+Top Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silogecho97&show_icons=true&theme=radical)](https://github.com/silogecho97/github-readme-stats)
 
 <!--
