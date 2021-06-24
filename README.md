@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Silas
-🔭 I’m currently working on Nodejs and ReactJs. 
-
+🔭 I’m currently working on Node, React and Angular(MERN,MEAN Stack). 
+💬 Ask me about Node
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silogecho97)](https://github.com/silogecho97/github-readme-stats)
