@@ -4,9 +4,10 @@
 💬 Ask me about Node
 
 Git Stats
-![Silas's GitHub stats](https://github-readme-stats.vercel.app/api?username=silogecho97&show_icons=true&theme=radical)
+[Silas's GitHub stats](https://github-readme-stats.vercel.app/api?username=silogecho97&show_icons=true&theme=radical)
 Top Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silogecho97&show_icons=true&theme=radical)](https://github.com/silogecho97/github-readme-stats)
+
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silogecho97&show_icons=true&theme=radical)](https://github.com/silogecho97/github-readme-stats)
 
 <!--
 **SiloGecho97/SiloGecho97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
