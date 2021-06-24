@@ -5,11 +5,7 @@
 
 
 ![Silas's GitHub stats](https://github-readme-stats.vercel.app/api?username=silogecho97&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silogecho97)](https://github.com/silogecho97/github-readme-stats)
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=silogecho97&repo=express-starter-mongo)](https://github.com/SiloGecho97/express-starter-mongo)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silogecho97&show_icons=true&theme=radical)](https://github.com/silogecho97/github-readme-stats)
 
 <!--
 **SiloGecho97/SiloGecho97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
