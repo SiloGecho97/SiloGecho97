@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Silas
-🔭 I’m currently working on Node, React and Angular(MERN,MEAN Stack). 
+🔭 I’m currently working on Full Stack Node, React(MERN,MEVN Stack) and Ruby on Rails
 
 ### Languages
 
