@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Silas
 🔭 I’m currently working on Full Stack Ruby on Rails and Vue 
   - 📫 How to reach me: silogecho@gmail.com
-  - 
+
 ### Languages
 
 
@@ -21,8 +21,8 @@
 ![RubyonRails](https://img.shields.io/badge/-Rails-000?&logo=Rails)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue)
-![Tailwind](https://img.shields.io/badge/-Tailwind-000?&logo=Tailwind)
+![Vue](https://img.shields.io/badge/-Vue-000?&logo=VueJS)
+![Tailwind](https://img.shields.io/badge/-Tailwind-000?&logo=TailwindCSS)
 ![Cypress](https://img.shields.io/badge/-Cypress-000?&logo=Cypress)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 
