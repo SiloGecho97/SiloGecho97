@@ -1,9 +1,4 @@
-### Hi there 👋 I'm Silas
-🔭 I’m currently working on Full Stack Ruby on Rails and Vue 
-  - 📫 How to reach me: silogecho@gmail.com
-
-
-Hi, I'm Silas Merdasa — a senior full-stack engineer who loves building products that solve real problems.
+### Hi there 👋 I'm Silas Merdasa — a senior full-stack engineer who loves building products that solve real problems.
 
 With experience across both frontend and backend (Vue, React, Ruby on Rails, PostgreSQL), I specialize in turning ideas into working software and fast. Whether it's launching an MVP, integrating AI features like OpenAI APIs, or scaling backend systems, I focus on clean code, speed, and user impact.
 
@@ -13,7 +8,7 @@ Lately, I’ve been exploring how AI can enhance everyday apps — from smart se
 
 
 ### Technologies
-![RubyonRails](https://img.shields.io/badge/-Rails-000?&logo=rails)
+![RubyonRails](https://img.shields.io/badge/-Ruby-000?&logo=rails)
 ![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
@@ -25,7 +20,7 @@ Lately, I’ve been exploring how AI can enhance everyday apps — from smart se
 ![Node.js](https://img.shields.io/badge/-Node-000?&logo=Node)
 
 ### AI & Tools: 
-![OpenAI API](https://img.shields.io/badge/-OpenAI-API-000?&logo=OpenAI)
+![OpenAI API](https://img.shields.io/badge/-OpenAI-000?&logo=OpenAI)
 ![LangChain](https://img.shields.io/badge/-LangChain-000?&logo=LangChain)
 ![Pinecone](https://img.shields.io/badge/-Pinecone-000?&logo=Pinecone)
 
@@ -40,7 +35,7 @@ Lately, I’ve been exploring how AI can enhance everyday apps — from smart se
 
 
 ## DevOps
-![GitHub Actions](https://img.shields.io/badge/-Github-Actions-000?&logo=GitHub)
+![GitHub Actions](https://img.shields.io/badge/-Github-000?&logo=GitHub)
 ![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=Vercel)
 ![Netlify](https://img.shields.io/badge/-Netlify-000?&logo=Netlify)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
