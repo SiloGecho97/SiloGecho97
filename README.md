@@ -1,10 +1,11 @@
-### Hi there 👋 I'm Silas Merdasa — a senior full-stack engineer who loves building products that solve real problems.
+### Hi there 👋 I'm Silas Merdasa 
+  — a senior full-stack engineer who loves building products that solve real problems.
 
 With experience across both frontend and backend (Vue, React, Ruby on Rails, PostgreSQL), I specialize in turning ideas into working software and fast. Whether it's launching an MVP, integrating AI features like OpenAI APIs, or scaling backend systems, I focus on clean code, speed, and user impact.
 
-I’ve worked with startups, founders, and remote teams to deliver projects end-to-end — from wireframes to deploy. I care deeply about product thinking, developer experience, and building tools that feel smooth and simple.
+I’ve worked with startups, founders, and remote teams to deliver projects end-to-end, from wireframes to deploy. I care deeply about product thinking, developer experience, and building tools that feel smooth and simple.
 
-Lately, I’ve been exploring how AI can enhance everyday apps — from smart search to automation. If you're building something interesting, I’d love to hear about it.
+Lately, I’ve been exploring how AI can enhance everyday apps, from smart search to automation. If you're building something interesting, I’d love to hear about it.
 
 
 ### Technologies
